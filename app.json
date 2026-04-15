@@ -1,0 +1,49 @@
+{
+  "expo": {
+    "name": "Habita",
+    "slug": "habita",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FAF7F2"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.habita.app",
+      "infoPlist": {
+        "UIBackgroundModes": ["fetch", "remote-notification"]
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon-foreground.png",
+        "backgroundColor": "#2C4A3E"
+      },
+      "package": "com.habita.app",
+      "permissions": ["android.permission.POST_NOTIFICATIONS"]
+    },
+    "plugins": [
+      [
+        "expo-notifications",
+        {
+          "icon": "./assets/notification-icon.png",
+          "color": "#2C4A3E",
+          "sounds": [],
+          "androidMode": "default",
+          "androidCollapsedTitle": "Habita"
+        }
+      ],
+      "expo-router"
+    ],
+    "scheme": "habita",
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
