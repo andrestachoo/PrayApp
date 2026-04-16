@@ -499,8 +499,8 @@ const styles = StyleSheet.create({
     marginLeft: 2,
   },
   welcomeLogo: {
-    width: 200,
-    height: 60,
+    width: 280,
+    height: 84,
     alignSelf: 'center',
     marginBottom: Spacing.sm,
   },

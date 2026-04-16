@@ -67,7 +67,7 @@ const loadingStyles = StyleSheet.create({
     justifyContent: 'center',
   },
   logo: {
-    width: 200,
-    height: 60,
+    width: 280,
+    height: 84,
   },
 });

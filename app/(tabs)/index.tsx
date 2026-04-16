@@ -359,8 +359,8 @@ const styles = StyleSheet.create({
     gap: Spacing.lg,
   },
   appLogo: {
-    width: 200,
-    height: 60,
+    width: 280,
+    height: 84,
     alignSelf: 'center',
     marginBottom: Spacing.xs,
   },
