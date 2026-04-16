@@ -46,7 +46,8 @@
           "androidCollapsedTitle": "Habita"
         }
       ],
-      "expo-router"
+      "expo-router",
+      "expo-font"
     ],
     "scheme": "habita",
     "experiments": {
