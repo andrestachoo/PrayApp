@@ -12,12 +12,17 @@
       "resizeMode": "contain",
       "backgroundColor": "#FAF7F2"
     },
-    "assetBundlePatterns": ["**/*"],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
       "supportsTablet": false,
       "bundleIdentifier": "com.habita.app",
       "infoPlist": {
-        "UIBackgroundModes": ["fetch", "remote-notification"]
+        "UIBackgroundModes": [
+          "fetch",
+          "remote-notification"
+        ]
       }
     },
     "android": {
@@ -26,7 +31,9 @@
         "backgroundColor": "#2C4A3E"
       },
       "package": "com.habita.app",
-      "permissions": ["android.permission.POST_NOTIFICATIONS"]
+      "permissions": [
+        "android.permission.POST_NOTIFICATIONS"
+      ]
     },
     "plugins": [
       [
@@ -39,11 +46,19 @@
           "androidCollapsedTitle": "Habita"
         }
       ],
-      "expo-router"
+      "expo-router",
+      "expo-font"
     ],
     "scheme": "habita",
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "93fe5d12-83d6-4164-a3f8-3722dba9ada0"
+      }
+    },
+    "owner": "tachoo"
   }
 }

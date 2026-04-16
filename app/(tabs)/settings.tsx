@@ -501,7 +501,7 @@ const styles = StyleSheet.create({
   scroll: { flex: 1, backgroundColor: Colors.background },
   content: { paddingHorizontal: Spacing.lg, gap: Spacing.md },
 
-  appLogo:   { width: 200, height: 60, alignSelf: 'center', marginBottom: Spacing.xs },
+  appLogo:   { width: 280, height: 84, alignSelf: 'center', marginBottom: Spacing.xs },
   pageTitle: { marginBottom: Spacing.sm, textAlign: 'center' },
   sectionGap: { marginTop: Spacing.sm },
 
