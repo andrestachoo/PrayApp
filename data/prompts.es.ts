@@ -289,4 +289,234 @@ export const ES: Record<string, { title: string; body: string; reflection?: stri
     title: 'No eres autosuficiente',
     body: 'Hay una parte de ti que cree que puede manejarse sin Dios. Esa parte se ha equivocado antes. Suelta la autosuficiencia. Pide ayuda.',
   },
+
+  // ─── GRATITUD — expansión ───────────────────────────────────────────────────
+
+  'grat-009': {
+    title: 'Él se deleita en ti',
+    body: 'No porque hayas actuado bien hoy. No porque lo merezcas. Él se deleita en ti como un padre se deleita en un hijo. Recíbelo sin discutir.',
+  },
+  'grat-010': {
+    title: 'El mundo de nuevo',
+    body: 'El mundo despertó de nuevo hoy. Las estrellas cedieron paso a la luz. Los pájaros ya sabían qué hacer. Se te dio otro día en este orden creado. Eso no es poca cosa.',
+  },
+  'grat-011': {
+    title: 'Más de lo que pediste',
+    body: 'Piensa en algo bueno en tu vida que nunca pensaste en pedir. Llegó de todas formas. Eso es gracia — no programada, no buscada, dada libremente.',
+  },
+  'grat-012': {
+    title: 'El mayor regalo',
+    body: 'No solo envió un mensaje. No solo mostró el camino. Se dio a sí mismo — enteramente, diariamente, en la forma más ordinaria. Dale gracias por eso.',
+  },
+  'grat-013': {
+    title: 'Cuenta en silencio',
+    body: 'Sin hacer una lista — deja que los bienes de este día afloren solos. No los busques. Que emerjan. Da gracias a Dios por cada uno a medida que aparece.',
+  },
+  'grat-014': {
+    title: 'Fuiste perdonado de nuevo',
+    body: 'En algún momento reciente, la misericordia cubrió un fallo tuyo. Puede que no lo hayas nombrado así. Nómbralo ahora. Da gracias por ello.',
+  },
+
+  // ─── PETICIÓN — expansión ───────────────────────────────────────────────────
+
+  'pet-008': {
+    title: 'Úsame hoy',
+    body: 'Señor, no sé quién me necesita hoy. Pero si hay una persona a quien pueda ayudar de verdad — ponla delante de mí. Hazme útil.',
+  },
+  'pet-009': {
+    title: 'Lo que miro',
+    body: 'Guarda mis ojos hoy. No solo lo obvio — sino la mirada que se demora demasiado, la comparación que disminuye, la imagen que elijo sostener. Guarda lo que dejo entrar.',
+  },
+  'pet-010': {
+    title: 'Déjame descansar de verdad',
+    body: 'El día ha terminado. No pido revivir lo que pasó. Dame la gracia del descanso auténtico — mente quieta, corazón en paz, alma en tu custodia.',
+  },
+  'pet-011': {
+    title: 'Más pequeño, por favor',
+    body: 'Algo en mí quiere ser visto, validado, aplaudido. Sé a dónde lleva ese camino. Señor, hazme más pequeño que mi ego. Que hable el trabajo — no yo.',
+  },
+  'pet-012': {
+    title: 'Lo que estoy a punto de decir',
+    body: 'Antes de hablar — pausa. ¿Es verdad? ¿Es necesario? ¿Es bueno? Dame la gracia de decir lo que hay que decir, y el valor de dejar lo demás sin decir.',
+  },
+
+  // ─── SILENCIO — expansión ───────────────────────────────────────────────────
+
+  'sil-008': {
+    title: 'Sin imagen, sin palabra',
+    body: 'Deja caer por un momento todas las imágenes de Dios — cada concepto, cada teología, cada representación. Solo estate presente ante el que está más allá de todo.',
+  },
+  'sil-009': {
+    title: 'Un hueco en medio',
+    body: 'En medio de todo — crea un hueco. Diez segundos de silencio real. Deja que el ruido se retire. Dios habita ese hueco. Entra en él.',
+  },
+  'sil-010': {
+    title: 'Más allá de las palabras',
+    body: 'Hay una gratitud demasiado grande para las palabras. Si la sientes ahora — no la reduzcas a una frase. Ofrécela en silencio. Dios recibe lo que el lenguaje no puede sostener.',
+  },
+  'sil-011': {
+    title: 'Como María',
+    body: 'Ella no comprendía del todo lo que se le pedía. Estuvo en silencio antes de decir sí. Practica ahora ese silencio — receptivo, abierto, sin defensas.',
+  },
+  'sil-012': {
+    title: 'La habitación interior',
+    body: 'Hay una habitación dentro de ti a la que el mundo no puede entrar. Ve allí ahora. Siempre está disponible. Dios ha estado esperando en ella.',
+  },
+
+  // ─── OFRENDA — expansión ────────────────────────────────────────────────────
+
+  'off-008': {
+    title: 'Por sus manos',
+    body: 'Toma lo que llevas hoy y ponlo en las manos de María. Ella sabe cómo llevar las cosas a su Hijo. Deja que lo cargue contigo.',
+  },
+  'off-009': {
+    title: 'El trabajo oculto',
+    body: 'Nadie vio lo que hiciste hoy. Nadie te agradeció. Nadie lo notó. Ofrece ese ocultamiento. El Padre ve en lo secreto — y eso es suficiente.',
+  },
+  'off-010': {
+    title: 'Las personas que no puedo arreglar',
+    body: 'Hay personas en tu vida que no puedes cambiar, no puedes ayudar suficiente, no puedes alcanzar. Ofrécelas. Tu amor convertido en ofrenda es más poderoso que tus soluciones.',
+  },
+  'off-011': {
+    title: 'Ofrecido en alegría',
+    body: 'No toda ofrenda viene del sufrimiento. Hoy, ofrece tu alegría — tu contentamiento, tu deleite, tu gratitud. La alegría devuelta a Dios se completa a sí misma.',
+  },
+  'off-012': {
+    title: 'Todo',
+    body: 'No solo las partes difíciles. No solo los momentos de fallo. Ofrece el ser entero — incluyendo las partes de las que estás orgulloso. Todo ello, dado libremente.',
+  },
+
+  // ─── EXAMEN — expansión ─────────────────────────────────────────────────────
+
+  'exam-007': {
+    title: '¿Qué quisiste hoy?',
+    body: 'Mira tus deseos de hoy — a lo que te acercaste, lo que evitaste, lo que esperabas que nadie notara. Tráelos con honestidad ante Dios.',
+  },
+  'exam-008': {
+    title: '¿Cuándo estuviste más vivo?',
+    body: '¿Cuándo hoy te sentiste más tú mismo — más claro, más generoso, más en paz? ¿Y cuándo te sentiste más contraído? Observa la diferencia.',
+  },
+  'exam-009': {
+    title: 'Ahora mismo, con honestidad',
+    body: 'Ahora mismo — no antes, no en teoría — ¿cuál es el estado real de tu corazón? Nómbralo con honestidad ante Dios. Ese nombramiento ya es oración.',
+  },
+  'exam-010': {
+    title: 'Que la misericordia tenga la última palabra',
+    body: 'Has mirado el día. Has visto dónde fallaste. Ahora deja que la misericordia tenga la última palabra. Él no retiene lo que ya pusiste a sus pies.',
+  },
+
+  // ─── CONFIANZA — expansión ──────────────────────────────────────────────────
+
+  'tr-007': {
+    title: 'No es el final de la historia',
+    body: 'Lo que ahora estás viviendo no es el capítulo final. Dios escribe historias más largas de lo que podemos ver desde adentro. Confía en el Autor.',
+  },
+  'tr-008': {
+    title: 'Él nunca llega tarde',
+    body: 'Has estado esperando — una respuesta, un cambio, una señal. No es lento. No es olvidadizo. Nunca llega tarde. Confía en el tiempo que no puedes ver.',
+  },
+  'tr-009': {
+    title: 'Lo que piensan de ti',
+    body: 'Suelta ahora mismo lo que otros piensan de ti. No puedes controlarlo. No te pertenece gestionar. Dios te conoce completamente — y ama lo que conoce.',
+  },
+  'tr-010': {
+    title: 'Pequeño es suficiente',
+    body: 'Sientes que estás haciendo muy poco — una fe demasiado pequeña, una oración demasiado pequeña, un amor demasiado pequeño. Lo pequeño es siempre donde Dios comienza. Es suficiente.',
+  },
+  'tr-011': {
+    title: 'El fruto no es tuyo',
+    body: 'Sembraste. Regaste. Si crece o no, no está en tus manos. Ofrece el resultado. La cosecha pertenece a Dios — no a tu esfuerzo.',
+  },
+
+  // ─── INTERCESIÓN — expansión ────────────────────────────────────────────────
+
+  'int-006': {
+    title: 'Por quienes están cruzando',
+    body: 'En algún lugar del mundo ahora mismo, alguien está muriendo. No conoces su nombre. Ora por esa persona — que no esté sola, que la misericordia la encuentre allí.',
+  },
+  'int-007': {
+    title: 'Por quienes están lejos de Dios',
+    body: 'Piensa en alguien que se ha alejado de la fe. No discutas con esa persona en tu oración. Solo ofrécela. Sostenla ante Dios sin condiciones.',
+  },
+  'int-008': {
+    title: 'A través de las heridas',
+    body: 'Trae a quien más sufre en tu corazón y ponlo ante las heridas de Cristo. No hay sufrimiento que no pueda ser colocado allí.',
+  },
+  'int-009': {
+    title: 'Por quienes están ante el altar',
+    body: 'Los sacerdotes cargan lo que la mayoría nunca verá — hombres ordinarios a quienes se les han dado cosas extraordinarias. Ora por ellos hoy. Por santidad, valentía y alegría.',
+  },
+
+  // ─── PRESENCIA — expansión ──────────────────────────────────────────────────
+
+  'pres-007': {
+    title: 'Emmanuel sigue siendo verdad',
+    body: 'Emmanuel — Dios con nosotros — no fue solo para Navidad. Es el estado permanente de las cosas. Ahora mismo, Él está contigo. Deja que eso se asiente.',
+  },
+  'pres-008': {
+    title: 'Él habita en ti',
+    body: 'Tu cuerpo no es solo un recipiente que toleras. Es el templo del Espíritu Santo. Él ha elegido morar en ti. Trátate de acuerdo con eso.',
+  },
+  'pres-009': {
+    title: 'Un segundo para volver',
+    body: 'No necesitas una hora. No necesitas una capilla. Un segundo de giro interior es suficiente para volver a la presencia de Dios. Hazlo ahora.',
+  },
+  'pres-010': {
+    title: 'Él quiere tu compañía',
+    body: 'La oración no es principalmente una transacción. No es un sistema de entrega de necesidades. Él quiere tu compañía — sencilla, genuina. Dásela ahora.',
+  },
+  'pres-011': {
+    title: 'Rodeado',
+    body: 'Antes de dormir — reconoce que no estás en el borde de la atención de Dios. Estás en el centro de ella. Estás rodeado. Descansa en eso.',
+  },
+
+  // ─── ESCRITURA — expansión ──────────────────────────────────────────────────
+
+  'scr-005': {
+    title: 'Sed',
+    body: 'Hay una sed en ti que el agua no toca. Has probado otras cosas. Ayudaron brevemente, luego pasaron. Solo una fuente no se agota. Ve allí ahora.',
+  },
+  'scr-006': {
+    title: 'Una luz que no se puede apagar',
+    body: 'Sea cual sea la oscuridad que llevas — no ha apagado la luz. Nunca lo hará. La luz brilla en la oscuridad. Eso no es sentimentalismo. Es una promesa.',
+  },
+  'scr-007': {
+    title: 'Una lámpara',
+    body: 'No necesitas ver todo el camino. Solo necesitas luz suficiente para el siguiente paso. Eso es lo que da la Escritura — no un mapa, sino una lámpara. Pide tu paso.',
+  },
+  'scr-008': {
+    title: 'El camino estrecho',
+    body: 'El camino que lleva a algún lugar real no es ancho. Te pide algo. Ora hoy por el valor de elegirlo — no el camino fácil, sino el verdadero.',
+  },
+  'scr-009': {
+    title: 'Porque resucitó',
+    body: 'Porque resucitó, lo peor nunca es lo último. Porque resucitó, la muerte tiene un techo. Porque resucitó, tienes un lugar real donde esperar.',
+  },
+  'scr-010': {
+    title: 'Lo vio desde lejos',
+    body: 'Estaba todavía muy lejos cuando su padre corrió hacia él. Ese detalle importa. Dios no espera a que llegues. Él se mueve primero hacia ti. Gírate, y deja que venga.',
+  },
+
+  // ─── LUCHA ESPIRITUAL — expansión ───────────────────────────────────────────
+
+  'str-005': {
+    title: 'Lo que guardas contra ellos',
+    body: 'Hay algo que no has soltado. Lo has mantenido cerca — dándole vueltas, alimentándolo. Te está costando más a ti que a ellos. Abre la mano. Suéltalo.',
+  },
+  'str-006': {
+    title: 'Lo que no puedes dejar de pensar',
+    body: 'Nómbralo. Lo que está dando vueltas en tu mente ahora mismo. Tráelo ante Dios — no para resolverlo, sino para dejar de cargarlo solo. No fuiste hecho para sostener esto sin Él.',
+  },
+  'str-007': {
+    title: 'Cuando no quieres orar',
+    body: 'El hecho de que hayas abierto esto ya es oración. El deseo de desear ya es deseo. Quédate unos segundos más. La sequedad no es toda la historia.',
+  },
+  'str-008': {
+    title: 'Lo que otro tiene',
+    body: 'Has estado midiendo tu vida con la de otro. Para. Su porción es suya. La tuya es tuya — dada específicamente, amada específicamente. Pide la gracia de recibirla.',
+  },
+  'str-009': {
+    title: 'El enemigo es real',
+    body: 'No todo lo que perturba tu paz viene de adentro. Hay un adversario real, y la oración es tu primera defensa. Nombra lo que te está atacando. Tráelo ante Cristo.',
+  },
 };
